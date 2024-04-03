@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/components/Hero.tsx", "app/components/Brands.tsx", "app/career/page.jsx", "app/contact_us/page.jsx", "app/mission/page.tsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/components/Hero.tsx", "app/components/Brands.jsx", "app/career/page.jsx", "app/contact_us/page.jsx", "app/mission/page.tsx"],
   "exclude": ["node_modules"]
 }
