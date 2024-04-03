@@ -4,10 +4,10 @@ const Brands = () => {
   return (
     <div
       className="flex overflow-hidden space-x-16 group h-[200px] p-[75px]"
-      style={{
-        backgroundImage: 'url("/bg.JPG")',
-        backgroundSize: "cover",
-      }}
+      // style={{
+      //   backgroundImage: 'url("/bg.JPG")',
+      //   backgroundSize: "cover",
+      // }}
     >
       <div className="flex space-x-16 animate-loop-scroll group-hover:paused">
         <img loading="lazy" src="b1.jpg" className="max-w-none" alt="Image 1" />
